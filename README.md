@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Save The Trees! 
 
-You can use the [editor on GitHub](https://github.com/abhipro90/SaveTheTrees/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Save the Trees is an initiative by 3 IB Secondary Students for Community in Service. We will inform you about consequences of you actions and how you can help
 
 ### Markdown
 
